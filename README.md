@@ -1,12 +1,45 @@
-# React + Vite
+# GSAP Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project utilizes the GreenSock Animation Platform (GSAP) to create smooth and interactive animations for the web.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- High-performance animations.
+- Cross-browser compatibility.
+- Easy-to-use API for creating complex animations.
 
-## Expanding the ESLint configuration
+## Installation
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/shivomv/ramnavmi.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd ramnavmi
+    ```
+3. Install dependencies:
+    ```bash
+    npm install
+    ```
+
+## Usage
+
+1. Start the development server:
+    ```bash
+    npm run dev 
+    ```
+2. Open your browser and navigate to `http://127.0.0.1:5173/`.
+
+## Documentation
+
+Refer to the [GSAP Documentation](https://greensock.com/docs/) for detailed usage and examples.
+
+## License
+
+This project is licensed under the MIT License.
+
+---
+
+**Author**: Shivom Verma  
+**Email**: [shivom.verma.dev@gmail.com](mailto:shivom.verma.dev@gmail.com)
